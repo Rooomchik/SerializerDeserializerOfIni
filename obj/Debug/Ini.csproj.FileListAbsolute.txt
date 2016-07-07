@@ -1,0 +1,9 @@
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.exe
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.pdb
+C:\Users\RomanHU\Desktop\IniSerDeser\bin\Debug\Ini.exe
+C:\Users\RomanHU\Desktop\IniSerDeser\bin\Debug\Ini.pdb
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.csprojResolveAssemblyReference.cache
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.Form1.resources
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.csproj.GenerateResource.Cache
+C:\Users\RomanHU\Desktop\C#\Home tasks\IniSerDeser\obj\Debug\Ini.exe
+C:\Users\RomanHU\Desktop\C#\Home tasks\IniSerDeser\obj\Debug\Ini.pdb

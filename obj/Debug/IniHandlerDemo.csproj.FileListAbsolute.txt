@@ -1,0 +1,16 @@
+C:\Users\RomanHU\Desktop\2\obj\Debug\IniHandlerDemo.csprojResolveAssemblyReference.cache
+C:\Users\RomanHU\Desktop\2\obj\Debug\IniHandlerDemo.Form1.resources
+C:\Users\RomanHU\Desktop\2\obj\Debug\IniHandlerDemo.csproj.GenerateResource.Cache
+C:\Users\RomanHU\Desktop\2\bin\Debug\IniHandlerDemo.exe
+C:\Users\RomanHU\Desktop\2\bin\Debug\IniHandlerDemo.pdb
+C:\Users\RomanHU\Desktop\2\obj\Debug\IniHandlerDemo.exe
+C:\Users\RomanHU\Desktop\2\obj\Debug\IniHandlerDemo.pdb
+C:\Users\RomanHU\Desktop\C#\Home tasks\IniSerDeser\obj\Debug\IniHandlerDemo.exe
+C:\Users\RomanHU\Desktop\C#\Home tasks\IniSerDeser\obj\Debug\IniHandlerDemo.pdb
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\IniHandlerDemo.csprojResolveAssemblyReference.cache
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\IniHandlerDemo.csproj.GenerateResource.Cache
+C:\Users\RomanHU\Desktop\IniSerDeser\bin\Debug\Ini.exe
+C:\Users\RomanHU\Desktop\IniSerDeser\bin\Debug\Ini.pdb
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.exe
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.pdb
+C:\Users\RomanHU\Desktop\IniSerDeser\obj\Debug\Ini.Form1.resources
